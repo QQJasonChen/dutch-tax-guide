@@ -22,7 +22,7 @@ export const scenarios: Scenario[] = [
       '所有 heffingskortingen 都適用',
     ],
     warnings: [
-      '⚠️ 2025 年起 partial non-resident 已取消，海外資產整年都要報 Box 3',
+      '⚠️ 2025 年起 partial non-resident 取消（2023/12 前已使用者有過渡安排至 2026）',
       '很可能需要補稅（下半年預扣稅率可能不夠）',
       '需要兩份 jaaropgave（上/下半年）',
       'Zorgtoeslag 資格可能改變（收入變高）',
@@ -58,7 +58,7 @@ export const scenarios: Scenario[] = [
       '報稅流程相對簡單',
     ],
     warnings: [
-      '⚠️ 2025 年起 partial non-resident 已取消！海外資產要報 Box 3',
+      '⚠️ 2025 年起 partial non-resident 取消（2023/12 前已使用者有過渡安排至 2026）',
       '確認 jaaropgave 上有正確反映 30% ruling',
       '2027 年起 30% 將降至 27%，提前規劃',
     ],
@@ -110,7 +110,7 @@ export const scenarios: Scenario[] = [
       '可以使用 hypotheekrenteaftrek（房貸利息扣除）',
     ],
     warnings: [
-      '⚠️ 2025 年起 partial non-resident 已取消，海外資產要報 Box 3',
+      '⚠️ 2025 年起 partial non-resident 取消（2023/12 前已使用者有過渡安排至 2026）',
       '要計算 eigenwoningforfait（自住房虛擬收入）',
       '2027 年起 30% 將降至 27%',
     ],
