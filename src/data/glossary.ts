@@ -38,7 +38,7 @@ export const glossary: GlossaryEntry[] = [
   { dutch: 'Schulden', chinese: '負債', explanation: 'Box 3 中可扣除的負債（房貸不算）', category: 'box3' },
   { dutch: 'Peildatum', chinese: '基準日', explanation: '計算資產的日期，為每年 1 月 1 日', category: 'box3' },
   { dutch: 'Forfaitair rendement', chinese: '虛擬報酬率', explanation: '政府假設你的資產有固定報酬，據此課稅', category: 'box3' },
-  { dutch: 'Partieel buitenlands belastingplichtige', chinese: '部分非稅務居民', explanation: '有 30% ruling 時可選擇的身分，海外資產免報', category: 'box3' },
+  { dutch: 'Partieel buitenlands belastingplichtige', chinese: '部分非稅務居民（2025 年起取消）', explanation: '以前有 30% ruling 時可選擇的身分，海外資產免報。2025 年起已取消，所有人都要報海外資產', category: 'box3' },
 
   // Deductions
   { dutch: 'Aftrekpost', chinese: '扣除項目', explanation: '可以從收入中扣除的費用，減少應稅金額', category: 'deduction' },
